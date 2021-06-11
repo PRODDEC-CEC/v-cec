@@ -3,17 +3,17 @@
 
 A new Application for PRODDEC Forum
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Get the latest news from College of Engineering, Chengannur. 
 
-A few resources to get you started if this is your first Flutter project:
+CEC at your fingertips!
+While you are busy with your college academics and other stuffs,
+don't worry about missing any of the college activities, events, highlights and much more.
+Getting to know about college things through notice boards has become a thing of past.
+Which is why PRODDEC CEC is up with V- CEC. 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+This is the official App of CEC to keep you updated with the institution, forums, university notifications, 
+and everything that's happening in every nook and corner of CEC
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 Developer contact - arjun.varma9@gmail.com
